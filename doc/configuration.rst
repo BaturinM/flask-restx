@@ -63,3 +63,5 @@ Flask-RESTX provides the following `Flask configuration values <https://flask.pa
 .. py:data:: SWAGGER_UI_OAUTH_REALM
 
 .. py:data:: SWAGGER_SUPPORTED_SUBMIT_METHODS
+
+.. py:data:: SWAGGER_DEEP_LINKING
